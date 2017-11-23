@@ -3,3 +3,13 @@ Créer un dossier :
 
 Se déplacer dans un dossier :
 > cd mon_dossier
+
+Activer un dossier comme repository :
+(se placer préalablement dans le dossier)
+> git init
+
+Ajouter tout les fichiers à l'index Git :
+> git add .
+
+Enregistrer un commit :
+> git commit -m "Message d'information"
