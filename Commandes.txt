@@ -1,0 +1,5 @@
+Créer un dossier :
+> mkdir mon_dossier
+
+Se déplacer dans un dossier :
+> cd mon_dossier
