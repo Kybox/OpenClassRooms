@@ -13,3 +13,6 @@ Ajouter tout les fichiers à l'index Git :
 
 Enregistrer un commit :
 > git commit -m "Message d'information"
+
+Lire l'historique :
+> git log
