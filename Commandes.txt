@@ -16,3 +16,9 @@ Enregistrer un commit :
 
 Lire l'historique :
 > git log
+
+Mettre à jour un repository en local à partir de Git-Hub :
+> git pull origin master
+
+Mettre à jour un repository sur Git-Hub à partir d'un ordinateur :
+> git push origin master 
