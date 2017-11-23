@@ -2,4 +2,9 @@ Lorsque vous travaillez sur un projet de code, vous allez régulièrement y appo
 
 Avec un logiciel de versioning comme Git, vous pouvez garder la trace de toutes les modifications faites sur votre code pour pouvoir vous y retrouver à tout moment. À chaque fois que vous faites une série de modifications (créer un fichier, supprimer un fichier, modifier un texte dans un fichier, etc.),  vous allez pouvoir enregistrer ces modifs dans un commit.
 
-La somme de tous les commits constitue l'historique de votre projet. Et l'intérêt d'un logiciel de versioning comme Git, c'est que vous pouvez vous placer à n'importe quel endroit de cet historique. En cas de bug par exemple, ou lorsque vous êtes plusieurs à travailler sur un même projet, revenir en arrière sur une précédente version du code peut s'avérer bien utile... tellement utile qu'utiliser un logiciel de versioning est considéré comme une habitude indispensable pour tout développeur digne de ce nom ! 
+La somme de tous les commits constitue l'historique de votre projet. Et l'intérêt d'un logiciel de versioning comme Git, c'est que vous pouvez vous placer à n'importe quel endroit de cet historique. En cas de bug par exemple, ou lorsque vous êtes plusieurs à travailler sur un même projet, revenir en arrière sur une précédente version du code peut s'avérer bien utile... tellement utile qu'utiliser un logiciel de versioning est considéré comme une habitude indispensable pour tout développeur digne de ce nom !
+
+
+Comme dit Jeff Atwood, un développeur très actif qui a notamment créé Stack Overflow, un forum d'entraide pour les développeurs que vous serez souvent amenés à utiliser lorsque vous vous poserez des questions dans vos projets de code :
+
+    "Si le code n'est pas enregistré dans un logiciel de gestion de version, il n'existe pas."
